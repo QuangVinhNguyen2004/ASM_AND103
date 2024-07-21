@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933652478480",
+    "project_id": "asmand103-97a79",
+    "storage_bucket": "asmand103-97a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933652478480:android:0f32f9520cca310aebe895",
+        "android_client_info": {
+          "package_name": "com.duyle.asm1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQxzFbdclCz6xSD-MC0tIgl6fOQpU3TpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
